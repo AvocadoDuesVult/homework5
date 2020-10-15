@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+}
+.main{
+    width: 40%;
+    height: 100vh;
+
+    border-right: 25px solid blue;
+    border-left: 25px solid red;
+    margin: 0 auto;
+
+    color: white;
+    text-align: center;
+
+   background-image: url(/all_dz/dz4/assets/gorod.jpg);
+   background-size: cover;
+   background-position: center;
+}
+
+.Alfa{
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: 500;
+    font-size: 40px;
+    color: rgb(218, 62, 62);
+
+    padding:0 20px;
+}
+.Carter{
+    font-family: 'Carter One', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+.Cairo400{
+    font-family: 'Cairo', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+.Oswald{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+.Mali{
+    font-family: 'Mali', cursive;
+    color: #ff5e42;
+    font-size: 22px;
+}
+.Cookie{
+    font-family: 'Cookie', cursive;
+    font-size: 27px;
+    margin-bottom: 5px;
+}
+
+.Caveat{
+    font-family: 'Caveat', cursive;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.DM_Mono{
+    font-family: 'DM Mono', monospace;
+    font-weight: 500;
+    text-align: right;
+}
+span{ 
+    color: red;
+   
+}
